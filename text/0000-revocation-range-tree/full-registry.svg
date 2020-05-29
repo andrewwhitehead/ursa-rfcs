@@ -1,0 +1,36 @@
+<svg width="198pt" height="116pt" viewBox="0.00 0.00 198.22 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<title>tree</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 194.2219,-112 194.2219,4 -4,4"></polygon>
+<!-- nBBEE -->
+<g id="node1" class="node">
+<title>nBBEE</title>
+<polygon fill="#c0c0c0" stroke="#000000" points="119,-108 65,-108 65,-72 119,-72 119,-108"></polygon>
+<text text-anchor="middle" x="92" y="-85.8" font-family="Verdana" font-size="14.00" fill="#000000">B,E</text>
+</g>
+<!-- nBB00 -->
+<g id="node2" class="node">
+<title>nBB00</title>
+<ellipse fill="none" stroke="#000000" cx="27" cy="-18" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="27" y="-13.8" font-family="Verdana" font-size="14.00" fill="#000000">B,0</text>
+</g>
+<!-- nBB00&#45;&gt;nBBEE -->
+<g id="edge1" class="edge">
+<title>nBB00-&gt;nBBEE</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M41.104,-33.6229C49.197,-42.5875 59.5593,-54.0656 68.819,-64.3226"></path>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="66.3302,-66.7889 75.6292,-71.8662 71.5261,-62.0981 66.3302,-66.7889"></polygon>
+</g>
+<!-- nNNEE -->
+<g id="node3" class="node">
+<title>nNNEE</title>
+<ellipse fill="none" stroke="#000000" cx="158" cy="-18" rx="32.4454" ry="18"></ellipse>
+<text text-anchor="middle" x="158" y="-13.8" font-family="Verdana" font-size="14.00" fill="#000000">n-1,E</text>
+</g>
+<!-- nNNEE&#45;&gt;nBBEE -->
+<g id="edge2" class="edge">
+<title>nNNEE-&gt;nBBEE</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M143.0236,-34.3379C134.8406,-43.2648 124.5247,-54.5185 115.3136,-64.5669"></path>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="112.716,-62.221 108.5388,-71.9577 117.8761,-66.9511 112.716,-62.221"></polygon>
+</g>
+</g>
+</svg>
